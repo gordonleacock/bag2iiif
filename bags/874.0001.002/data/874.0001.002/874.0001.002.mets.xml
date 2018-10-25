@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HT="http://www.hathitrust.org/ht_extension" xmlns:HTPREMIS="http://www.hathitrust.org/premis_extension" xmlns:dlxs="http://lib.umich.edu/dlxs_extension" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcam="http://purl.org/dc/dcam/" xmlns:mods="http://www.loc.gov/mods/v3" OBJID="874.0001.002" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <METS:metsHdr CREATEDATE="2018-08-30T20:19:06" LASTMODDATE="2018-08-30T20:19:06" RECORDSTATUS="BAGGED">
+    <METS:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+      <METS:name>DLPS</METS:name>
+    </METS:agent>
+  </METS:metsHdr>
+  <METS:dmdSec ID="DMDCOMMON">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="Common Metadata">
+      <METS:xmlData>
+        <dcterms:type>monograph</dcterms:type>
+        <dcterms:conformsTo>http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html#level-1-content</dcterms:conformsTo>
+        <dcterms:identifier>874.0001.002</dcterms:identifier>
+        <dcterms:title>The original draft of the act to establish the Catholepistemiad, or University of Michigania, in the handwriting of its author, Judge Augustus B. Woodward; and drafts of other legislation, file date, November 7, 1817</dcterms:title>
+        <dcterms:creator>Walker, Charles I. (Charles Irish)</dcterms:creator>
+        <dcterms:subject>University of Michigan founding documents</dcterms:subject>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMDCOLLECTIONS">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="In Collections">
+      <METS:xmlData>
+        <dcam:memberOf>urn:x-umich:collection:walker</dcam:memberOf>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMD001">
+    <METS:mdRef LOCTYPE="URL" MDTYPE="TEIHDR" LABEL="Work Metadata" XPTR="xpointer(//HEADER)" xlink:href="files/874.0001.002.xml"/>
+  </METS:dmdSec>
+  <METS:amdSec ID="AMD002">
+    <METS:sourceMD ID="AMD001">
+      <METS:mdRef LOCTYPE="URL" MDTYPE="OTHER" OTHERMDTYPE="DATA" MIMETYPE="application/xml" xlink:href="files/874.0001.002.xml"/>
+    </METS:sourceMD>
+  </METS:amdSec>
+  <METS:fileSec>
+    <METS:fileGrp ID="FG001" USE="bitonal">
+      <METS:file ID="FID001" SEQ="00000001" CHECKSUM="c2269a30fe0a5c73238be4289cf4c414" CHECKSUMTYPE="MD5" SIZE="116269" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000001.tif"/>
+      </METS:file>
+      <METS:file ID="FID002" SEQ="00000002" CHECKSUM="7382fbe0d2154a9b59922b35806f8308" CHECKSUMTYPE="MD5" SIZE="104223" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000002.tif"/>
+      </METS:file>
+      <METS:file ID="FID003" SEQ="00000003" CHECKSUM="98b4112b20a866efb351e5eedec2968a" CHECKSUMTYPE="MD5" SIZE="76759" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000003.tif"/>
+      </METS:file>
+      <METS:file ID="FID004" SEQ="00000004" CHECKSUM="ce33290d6c03b7638052ab7a0c2918d6" CHECKSUMTYPE="MD5" SIZE="128585" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000004.tif"/>
+      </METS:file>
+    </METS:fileGrp>
+    <METS:fileGrp ID="FG002" USE="encoded_text">
+      <METS:file ID="FID005" SEQ="00000001" MIMETYPE="text/xml" CHECKSUM="01edea77838ab61fa0a97a3daac2e988" CHECKSUMTYPE="MD5" SIZE="3698" CREATED="2018-08-30T20:19:06Z">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/874.0001.002.xml"/>
+        <METS:file ID="FID006" SEQ="00000001">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV[@NODE=&quot;874.0001.002:1&quot;]/P[PB[@SEQ=&quot;00000001&quot;]])"/>
+        </METS:file>
+        <METS:file ID="FID007" SEQ="00000002">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV[@NODE=&quot;874.0001.002:1&quot;]/P[PB[@SEQ=&quot;00000002&quot;]])"/>
+        </METS:file>
+        <METS:file ID="FID008" SEQ="00000003">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV[@NODE=&quot;874.0001.002:1&quot;]/P[PB[@SEQ=&quot;00000003&quot;]])"/>
+        </METS:file>
+        <METS:file ID="FID009" SEQ="00000004">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV[@NODE=&quot;874.0001.002:1&quot;]/P[PB[@SEQ=&quot;00000004&quot;]])"/>
+        </METS:file>
+      </METS:file>
+    </METS:fileGrp>
+    <METS:fileGrp ID="FG003" USE="contone">
+      <METS:file ID="FID010" SEQ="00000001" CHECKSUM="f7ac89e581e3226a81bc6921c3650fd3" CHECKSUMTYPE="MD5" SIZE="2258420" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/jp2">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/p0000001.jp2"/>
+      </METS:file>
+      <METS:file ID="FID011" SEQ="00000002" CHECKSUM="b2bd4ea3f15e366c092d9ec4b24e9040" CHECKSUMTYPE="MD5" SIZE="2150139" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/jp2">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/p0000002.jp2"/>
+      </METS:file>
+      <METS:file ID="FID012" SEQ="00000003" CHECKSUM="75237cb3ebff552c8bd81659137dcfb2" CHECKSUMTYPE="MD5" SIZE="1793724" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/jp2">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/p0000003.jp2"/>
+      </METS:file>
+      <METS:file ID="FID013" SEQ="00000004" CHECKSUM="c771efe2609a8b6b4167c06e338d1b9d" CHECKSUMTYPE="MD5" SIZE="1974489" CREATED="2017-07-10T15:12:55Z" MIMETYPE="image/jp2">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/p0000004.jp2"/>
+      </METS:file>
+    </METS:fileGrp>
+  </METS:fileSec>
+  <METS:structMap TYPE="physical">
+    <METS:div LABEL="The original draft of the act to establish the Catholepistemiad, or University of Michigania, in the handwriting of its author, Judge Augustus B. Woodward; and drafts of other legislation, file date, November 7, 1817">
+      <METS:div ORDER="00000001" ORDERLABEL="1" TYPE="page">
+        <METS:fptr FILEID="FID001"/>
+        <METS:fptr FILEID="FID010"/>
+        <METS:fptr FILEID="FID006"/>
+      </METS:div>
+      <METS:div ORDER="00000002" ORDERLABEL="2" TYPE="page">
+        <METS:fptr FILEID="FID002"/>
+        <METS:fptr FILEID="FID011"/>
+        <METS:fptr FILEID="FID007"/>
+      </METS:div>
+      <METS:div ORDER="00000003" ORDERLABEL="3" TYPE="page">
+        <METS:fptr FILEID="FID003"/>
+        <METS:fptr FILEID="FID012"/>
+        <METS:fptr FILEID="FID008"/>
+      </METS:div>
+      <METS:div ORDER="00000004" ORDERLABEL="4" TYPE="page">
+        <METS:fptr FILEID="FID004"/>
+        <METS:fptr FILEID="FID013"/>
+        <METS:fptr FILEID="FID009"/>
+      </METS:div>
+    </METS:div>
+  </METS:structMap>
+</METS:mets>

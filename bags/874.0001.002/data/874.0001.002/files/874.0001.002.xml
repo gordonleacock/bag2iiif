@@ -1,0 +1,59 @@
+<DLPSTEXTCLASS>
+<HEADER>
+  <FILEDESC>
+    <TITLESTMT>
+      <TITLE TYPE="245">The original draft of the act to establish the Catholepistemiad, or University of Michigania, in the handwriting of its author, Judge Augustus B. Woodward; and drafts of other legislation, file date, November 7, 1817</TITLE>
+      <AUTHOR>Walker, Charles I. (Charles Irish)</AUTHOR>
+    </TITLESTMT>
+    <EXTENT>4 continuous tone images</EXTENT>
+    <PUBLICATIONSTMT>
+      <PUBLISHER>University of Michigan Library</PUBLISHER>
+      <PUBPLACE>Ann Arbor, Michigan</PUBPLACE>
+      <DATE>2017</DATE>
+      <IDNO TYPE="dlps">874.0001.002</IDNO>
+      <AVAILABILITY><P>The University of Michigan Library provides access to these materials for educational and research purposes. These materials may be under copyright. If you decide to use any of these materials, you are responsible for making your own legal assessment and securing any necessary permission. If you have questions about the collection, please contact the Bentley Historical Library at bentley.ref@umich.edu. If you have concerns about the inclusion of an item in this collection, please contact Library Information Technology at libraryit-info@umich.edu.</P><P TYPE="DPLA">No Copyright - United States</P></AVAILABILITY>
+    </PUBLICATIONSTMT>
+    <SERIESSTMT>
+      <TITLE TYPE="collection">Charles I. Walker Collection, 1817-1887 (bulk 1817-1825)</TITLE>
+      <TITLE TYPE="series">University of Michigan founding documents</TITLE>
+    </SERIESSTMT>
+    <SOURCEDESC>
+      <BIBLFULL><TITLESTMT><TITLE TYPE="245">The original draft of the act to establish the Catholepistemiad, or University of Michigania, in the handwriting of its author, Judge Augustus B. Woodward; and drafts of other legislation, file date, November 7, 1817</TITLE><AUTHOR>Walker, Charles I. (Charles Irish)</AUTHOR></TITLESTMT><EXTENT>4 continuous tone images</EXTENT><PUBLICATIONSTMT><DATE>November 7, 1817</DATE></PUBLICATIONSTMT></BIBLFULL>
+    </SOURCEDESC>
+  </FILEDESC>
+  <ENCODINGDESC>
+    <PROJECTDESC>
+      <P>Header created on 2017-09-14</P>
+    </PROJECTDESC>
+    <EDITORIALDECL N="1">
+      <P>This electronic text file was created with uncorrected Optical Character
+								Recognition (OCR). Encoding has been done using the recommendations for
+								Level 1 of the TEI in Libraries Guidelines. Digital images are linked to
+								the XML file.</P>
+    </EDITORIALDECL>
+  </ENCODINGDESC>
+  <PROFILEDESC>
+    <LANGUSAGE ID="eng">
+      <LANGUAGE>English</LANGUAGE>
+    </LANGUSAGE>
+    <TEXTCLASS>
+      <KEYWORDS>
+        <TERM TYPE="breadcrumb">University of Michigan founding documents</TERM>
+      </KEYWORDS>
+    </TEXTCLASS>
+  </PROFILEDESC>
+</HEADER>
+<TEXT N="874.0001.002"><BODY><DIV1 NODE="874.0001.002:1">
+<P>
+<PB REF="00000001.tif" SEQ="00000001" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="100" N="1" DISPLAYN="1" HREF="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=walker;idno=874.0001.002;debug=xml;c=walker;seq=1"/>
+</P>
+<P>
+<PB REF="00000002.tif" SEQ="00000002" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="100" N="2" DISPLAYN="2" HREF="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=walker;idno=874.0001.002;debug=xml;c=walker;seq=2"/>
+</P>
+<P>
+<PB REF="00000003.tif" SEQ="00000003" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="100" N="3" DISPLAYN="3" HREF="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=walker;idno=874.0001.002;debug=xml;c=walker;seq=3"/>
+</P>
+<P>
+<PB REF="00000004.tif" SEQ="00000004" RES="600dpi" FMT="TIFF6.0" FTR="UNS" CNF="100" N="4" DISPLAYN="4" HREF="https://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?cc=walker;idno=874.0001.002;debug=xml;c=walker;seq=4"/>
+</P>
+</DIV1></BODY></TEXT></DLPSTEXTCLASS>

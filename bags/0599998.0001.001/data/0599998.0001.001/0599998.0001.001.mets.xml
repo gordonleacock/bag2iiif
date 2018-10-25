@@ -1,0 +1,873 @@
+<?xml version="1.0"?>
+<METS:mets xmlns:METS="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HT="http://www.hathitrust.org/ht_extension" xmlns:HTPREMIS="http://www.hathitrust.org/premis_extension" xmlns:dlxs="http://lib.umich.edu/dlxs_extension" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcam="http://purl.org/dc/dcam/" xmlns:mods="http://www.loc.gov/mods/v3" OBJID="0599998.0001.001" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <METS:metsHdr CREATEDATE="2018-09-05T20:43:56" LASTMODDATE="2018-09-05T20:43:56" RECORDSTATUS="BAGGED">
+    <METS:agent ROLE="CUSTODIAN" TYPE="ORGANIZATION">
+      <METS:name>DLPS</METS:name>
+    </METS:agent>
+  </METS:metsHdr>
+  <METS:dmdSec ID="DMDCOMMON">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="Common Metadata">
+      <METS:xmlData>
+        <dcterms:type>monograph</dcterms:type>
+        <dcterms:conformsTo>http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html#level-1-content</dcterms:conformsTo>
+        <dcterms:identifier>0599998.0001.001</dcterms:identifier>
+        <dcterms:title>Abraham Lincoln quarterly.  [Vol. 1, no. 1]</dcterms:title>
+        <dcterms:subject>Lincoln, Abraham, -- 1809-1865.</dcterms:subject>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMDCOLLECTIONS">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="In Collections">
+      <METS:xmlData>
+        <dcam:memberOf xlink:href="urn:x-umich:collection:alajournals" xlink:title="Abraham Lincoln Association Serials"/>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMDPARTS001">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="Title">
+      <METS:xmlData>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0002.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 2, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0003.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 3, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0004.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 4, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0005.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 5, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0006.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 6, index]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0007.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 7, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0007.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 7, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0007.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 7, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0007.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 7, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0007.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 7, index]"/>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMDPARTS002">
+    <METS:mdWrap MDTYPE="DC" MIMETYPE="text/xml" LABEL="Volume/Issue">
+      <METS:xmlData>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.001" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 1]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.002" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 2]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.003" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 3]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.004" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 4]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.005" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 5]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.006" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 6]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.007" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 7]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.008" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, no. 8]"/>
+        <dcterms:isPartOf xlink:href="urn:x-umich:work:0599998.0001.IND" xlink:title="Abraham Lincoln quarterly.  [Vol. 1, index]"/>
+      </METS:xmlData>
+    </METS:mdWrap>
+  </METS:dmdSec>
+  <METS:dmdSec ID="DMD001">
+    <METS:mdRef LOCTYPE="URL" MDTYPE="TEIHDR" LABEL="Work Metadata" XPTR="xpointer(//HEADER)" xlink:href="files/0599998.0001.001.xml"/>
+  </METS:dmdSec>
+  <METS:amdSec ID="AMD002">
+    <METS:sourceMD ID="AMD001">
+      <METS:mdRef LOCTYPE="URL" MDTYPE="OTHER" OTHERMDTYPE="DATA" MIMETYPE="application/xml" xlink:href="files/0599998.0001.001.xml"/>
+    </METS:sourceMD>
+  </METS:amdSec>
+  <METS:fileSec>
+    <METS:fileGrp ID="FG001" USE="bitonal">
+      <METS:file ID="FID001" SEQ="00000001" CHECKSUM="acf6c5b95d230876244a8dd83e475746" CHECKSUMTYPE="MD5" SIZE="3037148" CREATED="2007-08-07T13:33:51Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000001.tif"/>
+      </METS:file>
+      <METS:file ID="FID002" SEQ="00000002" CHECKSUM="4efcb122106be85b3c846da79ec019eb" CHECKSUMTYPE="MD5" SIZE="1856864" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000002.tif"/>
+      </METS:file>
+      <METS:file ID="FID003" SEQ="00000003" CHECKSUM="e4eaa32d5fc1cc882c8ee441848de073" CHECKSUMTYPE="MD5" SIZE="5308" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000003.tif"/>
+      </METS:file>
+      <METS:file ID="FID004" SEQ="00000004" CHECKSUM="702fd72aaa7c3ea1e69c10dc8bc73167" CHECKSUMTYPE="MD5" SIZE="1026" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000004.tif"/>
+      </METS:file>
+      <METS:file ID="FID005" SEQ="00000005" CHECKSUM="8785a39cfbd8a6a44fbe306cc523e9d1" CHECKSUMTYPE="MD5" SIZE="1023" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000005.tif"/>
+      </METS:file>
+      <METS:file ID="FID006" SEQ="00000006" CHECKSUM="cace84fe2d8c6118addda5c1d4d37d16" CHECKSUMTYPE="MD5" SIZE="285868" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000006.tif"/>
+      </METS:file>
+      <METS:file ID="FID007" SEQ="00000007" CHECKSUM="3fb909eec249a0cba815cb0ad9c8ffa8" CHECKSUMTYPE="MD5" SIZE="52075" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000007.tif"/>
+      </METS:file>
+      <METS:file ID="FID008" SEQ="00000008" CHECKSUM="2561620abe5644182d0dea691a1907f6" CHECKSUMTYPE="MD5" SIZE="90630" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000008.tif"/>
+      </METS:file>
+      <METS:file ID="FID009" SEQ="00000009" CHECKSUM="bca1c1ee8cd053c72828ca2ad417e0e7" CHECKSUMTYPE="MD5" SIZE="88763" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000009.tif"/>
+      </METS:file>
+      <METS:file ID="FID010" SEQ="00000010" CHECKSUM="ef1c2b5f70c7d908e776a36b5301468a" CHECKSUMTYPE="MD5" SIZE="89100" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000010.tif"/>
+      </METS:file>
+      <METS:file ID="FID011" SEQ="00000011" CHECKSUM="f1f5ce3a9eca6d4a7a1dc1e713dd9d6a" CHECKSUMTYPE="MD5" SIZE="88616" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000011.tif"/>
+      </METS:file>
+      <METS:file ID="FID012" SEQ="00000012" CHECKSUM="0a84ce510e79f1a12a30181893368a37" CHECKSUMTYPE="MD5" SIZE="81971" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000012.tif"/>
+      </METS:file>
+      <METS:file ID="FID013" SEQ="00000013" CHECKSUM="dcf8bac79930585926b58e1ba7c1c87f" CHECKSUMTYPE="MD5" SIZE="87716" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000013.tif"/>
+      </METS:file>
+      <METS:file ID="FID014" SEQ="00000014" CHECKSUM="00a05799407b0dc5ae2876f9898a8e5a" CHECKSUMTYPE="MD5" SIZE="82797" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000014.tif"/>
+      </METS:file>
+      <METS:file ID="FID015" SEQ="00000015" CHECKSUM="bcddb2577c7b302be377306ea1200abf" CHECKSUMTYPE="MD5" SIZE="83329" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000015.tif"/>
+      </METS:file>
+      <METS:file ID="FID016" SEQ="00000016" CHECKSUM="c7a076b9966f76f6b1499b9b65a7659e" CHECKSUMTYPE="MD5" SIZE="90074" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000016.tif"/>
+      </METS:file>
+      <METS:file ID="FID017" SEQ="00000017" CHECKSUM="8cf129f747b0c09a663b52d6abadc094" CHECKSUMTYPE="MD5" SIZE="77332" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000017.tif"/>
+      </METS:file>
+      <METS:file ID="FID018" SEQ="00000018" CHECKSUM="1598478d88454e220ab1edb0175cf6f0" CHECKSUMTYPE="MD5" SIZE="90663" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000018.tif"/>
+      </METS:file>
+      <METS:file ID="FID019" SEQ="00000019" CHECKSUM="c3f4706260261aaba3b90884cbbe117f" CHECKSUMTYPE="MD5" SIZE="88596" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000019.tif"/>
+      </METS:file>
+      <METS:file ID="FID020" SEQ="00000020" CHECKSUM="b4f2267f31714e0275330812f1aa1e02" CHECKSUMTYPE="MD5" SIZE="88281" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000020.tif"/>
+      </METS:file>
+      <METS:file ID="FID021" SEQ="00000021" CHECKSUM="9eef7ca6010b9d437b7758038c9edc76" CHECKSUMTYPE="MD5" SIZE="87846" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000021.tif"/>
+      </METS:file>
+      <METS:file ID="FID022" SEQ="00000022" CHECKSUM="c0897e158a994d932568a72966b9b8fc" CHECKSUMTYPE="MD5" SIZE="78371" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000022.tif"/>
+      </METS:file>
+      <METS:file ID="FID023" SEQ="00000023" CHECKSUM="db518e8cd0bf1fc7af6cfcedddf3bbcb" CHECKSUMTYPE="MD5" SIZE="88568" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000023.tif"/>
+      </METS:file>
+      <METS:file ID="FID024" SEQ="00000024" CHECKSUM="2256203a5b8298f83e1bcbd779447170" CHECKSUMTYPE="MD5" SIZE="88831" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000024.tif"/>
+      </METS:file>
+      <METS:file ID="FID025" SEQ="00000025" CHECKSUM="eda87e483f564e9cb72496fcf27e8d9f" CHECKSUMTYPE="MD5" SIZE="87677" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000025.tif"/>
+      </METS:file>
+      <METS:file ID="FID026" SEQ="00000026" CHECKSUM="655757b11dc91d2c522f5831c27abba1" CHECKSUMTYPE="MD5" SIZE="85978" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000026.tif"/>
+      </METS:file>
+      <METS:file ID="FID027" SEQ="00000027" CHECKSUM="f875d63d3cf59ac6eca37cfb06605a73" CHECKSUMTYPE="MD5" SIZE="88166" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000027.tif"/>
+      </METS:file>
+      <METS:file ID="FID028" SEQ="00000028" CHECKSUM="f8638d82af74f58ac6900f21129f0d4a" CHECKSUMTYPE="MD5" SIZE="88982" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000028.tif"/>
+      </METS:file>
+      <METS:file ID="FID029" SEQ="00000029" CHECKSUM="7d2e0a30d753c4422aa461d41f1909ed" CHECKSUMTYPE="MD5" SIZE="89697" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000029.tif"/>
+      </METS:file>
+      <METS:file ID="FID030" SEQ="00000030" CHECKSUM="f82182aa164493c6b985513fb7ccd270" CHECKSUMTYPE="MD5" SIZE="91168" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000030.tif"/>
+      </METS:file>
+      <METS:file ID="FID031" SEQ="00000031" CHECKSUM="d95881ee3f127c46209e4307704a51bd" CHECKSUMTYPE="MD5" SIZE="81039" CREATED="2007-08-07T13:33:52Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000031.tif"/>
+      </METS:file>
+      <METS:file ID="FID032" SEQ="00000032" CHECKSUM="ca30f1f3dd229c275ecf71f32a6fefd5" CHECKSUMTYPE="MD5" SIZE="89971" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000032.tif"/>
+      </METS:file>
+      <METS:file ID="FID033" SEQ="00000033" CHECKSUM="c34b5fda5fc11bd00e4ad300798111c3" CHECKSUMTYPE="MD5" SIZE="89463" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000033.tif"/>
+      </METS:file>
+      <METS:file ID="FID034" SEQ="00000034" CHECKSUM="0ce951529f80c6d53af6b855f904fd13" CHECKSUMTYPE="MD5" SIZE="85903" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000034.tif"/>
+      </METS:file>
+      <METS:file ID="FID035" SEQ="00000035" CHECKSUM="a6dae3b12df599ce0d3763b1088f7f82" CHECKSUMTYPE="MD5" SIZE="89099" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000035.tif"/>
+      </METS:file>
+      <METS:file ID="FID036" SEQ="00000036" CHECKSUM="3480b73f1ffc4d61de33e9da7314d8fc" CHECKSUMTYPE="MD5" SIZE="88383" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000036.tif"/>
+      </METS:file>
+      <METS:file ID="FID037" SEQ="00000037" CHECKSUM="6aa6e9d7bcb0490383f3ac34f42188d9" CHECKSUMTYPE="MD5" SIZE="89633" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000037.tif"/>
+      </METS:file>
+      <METS:file ID="FID038" SEQ="00000038" CHECKSUM="0240e5209eff022f0c978308c8d74ee4" CHECKSUMTYPE="MD5" SIZE="81712" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000038.tif"/>
+      </METS:file>
+      <METS:file ID="FID039" SEQ="00000039" CHECKSUM="cbe8fbde44c7264e63e0b9a6aaee7791" CHECKSUMTYPE="MD5" SIZE="88207" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000039.tif"/>
+      </METS:file>
+      <METS:file ID="FID040" SEQ="00000040" CHECKSUM="69681db4a38499923319b9b429ed07de" CHECKSUMTYPE="MD5" SIZE="90978" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000040.tif"/>
+      </METS:file>
+      <METS:file ID="FID041" SEQ="00000041" CHECKSUM="deebf4813138834c5cc1b1f93b71a584" CHECKSUMTYPE="MD5" SIZE="86380" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000041.tif"/>
+      </METS:file>
+      <METS:file ID="FID042" SEQ="00000042" CHECKSUM="51514fa68630b78decdd2ba7f2690d5f" CHECKSUMTYPE="MD5" SIZE="89890" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000042.tif"/>
+      </METS:file>
+      <METS:file ID="FID043" SEQ="00000043" CHECKSUM="09f6173dc32f418efab2316d5cbbcdd5" CHECKSUMTYPE="MD5" SIZE="88706" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000043.tif"/>
+      </METS:file>
+      <METS:file ID="FID044" SEQ="00000044" CHECKSUM="71cd5a4f40e30dc1db11b45e765a0716" CHECKSUMTYPE="MD5" SIZE="90528" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000044.tif"/>
+      </METS:file>
+      <METS:file ID="FID045" SEQ="00000045" CHECKSUM="ba571e4a1ff4cc2f1c44cc59ed5b94f9" CHECKSUMTYPE="MD5" SIZE="85518" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000045.tif"/>
+      </METS:file>
+      <METS:file ID="FID046" SEQ="00000046" CHECKSUM="c2bee3f68117afeded6a91ab221e095d" CHECKSUMTYPE="MD5" SIZE="18707" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000046.tif"/>
+      </METS:file>
+      <METS:file ID="FID047" SEQ="00000047" CHECKSUM="a3c37b80bf8929c76ff571be16a5c331" CHECKSUMTYPE="MD5" SIZE="76320" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000047.tif"/>
+      </METS:file>
+      <METS:file ID="FID048" SEQ="00000048" CHECKSUM="c71514f5ab0a75252adf110c3fcab43a" CHECKSUMTYPE="MD5" SIZE="46139" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000048.tif"/>
+      </METS:file>
+      <METS:file ID="FID049" SEQ="00000049" CHECKSUM="725390c949f5cdc18cb0a6ee721f1ec0" CHECKSUMTYPE="MD5" SIZE="44024" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000049.tif"/>
+      </METS:file>
+      <METS:file ID="FID050" SEQ="00000050" CHECKSUM="0116c5a4f5837b78d6950bf22a9b5927" CHECKSUMTYPE="MD5" SIZE="48162" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000050.tif"/>
+      </METS:file>
+      <METS:file ID="FID051" SEQ="00000051" CHECKSUM="5c6f5619444701720b146ac6062b58c8" CHECKSUMTYPE="MD5" SIZE="45850" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000051.tif"/>
+      </METS:file>
+      <METS:file ID="FID052" SEQ="00000052" CHECKSUM="f73eaf14132d6bdbf67772d0771cbc7c" CHECKSUMTYPE="MD5" SIZE="47335" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000052.tif"/>
+      </METS:file>
+      <METS:file ID="FID053" SEQ="00000053" CHECKSUM="c059b3669795f58e6b500131c93d1546" CHECKSUMTYPE="MD5" SIZE="46272" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000053.tif"/>
+      </METS:file>
+      <METS:file ID="FID054" SEQ="00000054" CHECKSUM="dbcad68fcdd5be479f930fda925e9e8b" CHECKSUMTYPE="MD5" SIZE="47673" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000054.tif"/>
+      </METS:file>
+      <METS:file ID="FID055" SEQ="00000055" CHECKSUM="ab83920266b4d953660e9ecedd09f31d" CHECKSUMTYPE="MD5" SIZE="45846" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000055.tif"/>
+      </METS:file>
+      <METS:file ID="FID056" SEQ="00000056" CHECKSUM="d14223ea16a2e73823c69fb72a048d93" CHECKSUMTYPE="MD5" SIZE="46408" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000056.tif"/>
+      </METS:file>
+      <METS:file ID="FID057" SEQ="00000057" CHECKSUM="a16dd5636a469b32e3935e1ec27f4d31" CHECKSUMTYPE="MD5" SIZE="46549" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000057.tif"/>
+      </METS:file>
+      <METS:file ID="FID058" SEQ="00000058" CHECKSUM="efea1057e4ec851b4b5caf7399121282" CHECKSUMTYPE="MD5" SIZE="47975" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000058.tif"/>
+      </METS:file>
+      <METS:file ID="FID059" SEQ="00000059" CHECKSUM="4e29520a8f86d304d1e27904da7c27a0" CHECKSUMTYPE="MD5" SIZE="45012" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000059.tif"/>
+      </METS:file>
+      <METS:file ID="FID060" SEQ="00000060" CHECKSUM="e60b8f2fdd2b78f4b07714da269dedbb" CHECKSUMTYPE="MD5" SIZE="78810" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000060.tif"/>
+      </METS:file>
+      <METS:file ID="FID061" SEQ="00000061" CHECKSUM="2a76634416d7dc988335bcad96462a46" CHECKSUMTYPE="MD5" SIZE="108027" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000061.tif"/>
+      </METS:file>
+      <METS:file ID="FID062" SEQ="00000062" CHECKSUM="cd8b5b897dc764c1edabc1975ff5f7a3" CHECKSUMTYPE="MD5" SIZE="77005" CREATED="2007-08-07T13:33:53Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000062.tif"/>
+      </METS:file>
+      <METS:file ID="FID063" SEQ="00000063" CHECKSUM="d7f513b1506cc8682eee4a4d409f22c7" CHECKSUMTYPE="MD5" SIZE="88432" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000063.tif"/>
+      </METS:file>
+      <METS:file ID="FID064" SEQ="00000064" CHECKSUM="920028973abae22ef4fbe49ffa797d15" CHECKSUMTYPE="MD5" SIZE="89016" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000064.tif"/>
+      </METS:file>
+      <METS:file ID="FID065" SEQ="00000065" CHECKSUM="583124c4796fbfb3428e6d21400dff35" CHECKSUMTYPE="MD5" SIZE="89331" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000065.tif"/>
+      </METS:file>
+      <METS:file ID="FID066" SEQ="00000066" CHECKSUM="b426009a4745ed26ed3ba4cc946ae5eb" CHECKSUMTYPE="MD5" SIZE="89481" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000066.tif"/>
+      </METS:file>
+      <METS:file ID="FID067" SEQ="00000067" CHECKSUM="81e441bb6385021b7de6c2931d50954c" CHECKSUMTYPE="MD5" SIZE="22311" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000067.tif"/>
+      </METS:file>
+      <METS:file ID="FID068" SEQ="00000068" CHECKSUM="3de2006a1462e18cdbe4699606e9cd2e" CHECKSUMTYPE="MD5" SIZE="99957" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000068.tif"/>
+      </METS:file>
+      <METS:file ID="FID069" SEQ="00000069" CHECKSUM="05f14fb70c5d2e01a43693f283f1a1d0" CHECKSUMTYPE="MD5" SIZE="94910" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000069.tif"/>
+      </METS:file>
+      <METS:file ID="FID070" SEQ="00000070" CHECKSUM="5c8a0bee2494b28f6755401e4194be67" CHECKSUMTYPE="MD5" SIZE="97421" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000070.tif"/>
+      </METS:file>
+      <METS:file ID="FID071" SEQ="00000071" CHECKSUM="11f33992634da5d76a115e735f8441a6" CHECKSUMTYPE="MD5" SIZE="73843" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000071.tif"/>
+      </METS:file>
+      <METS:file ID="FID072" SEQ="00000072" CHECKSUM="cf21179770df4103ead68e77c451aedf" CHECKSUMTYPE="MD5" SIZE="3408" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000072.tif"/>
+      </METS:file>
+      <METS:file ID="FID073" SEQ="00000073" CHECKSUM="27ab2e39e58bac93fc7d972fca5ea6de" CHECKSUMTYPE="MD5" SIZE="743251" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000073.tif"/>
+      </METS:file>
+      <METS:file ID="FID074" SEQ="00000074" CHECKSUM="15d1c19d04c9823cf72ebe76e89d3d1f" CHECKSUMTYPE="MD5" SIZE="1194152" CREATED="2007-08-07T13:33:54Z" MIMETYPE="image/tiff">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/00000074.tif"/>
+      </METS:file>
+    </METS:fileGrp>
+    <METS:fileGrp ID="FG002" USE="encoded_text">
+      <METS:file ID="FID075" SEQ="00000001" MIMETYPE="text/xml" CHECKSUM="0da0029ad9833d5c8314647bd3fccc6d" CHECKSUMTYPE="MD5" SIZE="120116" CREATED="2018-09-05T20:43:56Z">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/0599998.0001.001.xml"/>
+        <METS:file ID="FID076" SEQ="00000001">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000001&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID077" SEQ="00000002">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000002&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID078" SEQ="00000003">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000003&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID079" SEQ="00000004">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000004&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID080" SEQ="00000005">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000005&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID081" SEQ="00000006">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000006&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID082" SEQ="00000007">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000007&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID083" SEQ="00000008">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000008&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID084" SEQ="00000009">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000009&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID085" SEQ="00000010">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000010&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID086" SEQ="00000011">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000011&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID087" SEQ="00000012">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000012&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID088" SEQ="00000013">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000013&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID089" SEQ="00000014">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000014&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID090" SEQ="00000015">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000015&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID091" SEQ="00000016">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000016&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID092" SEQ="00000017">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000017&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID093" SEQ="00000018">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000018&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID094" SEQ="00000019">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000019&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID095" SEQ="00000020">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000020&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID096" SEQ="00000021">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000021&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID097" SEQ="00000022">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000022&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID098" SEQ="00000023">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000023&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID099" SEQ="00000024">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000024&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID100" SEQ="00000025">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000025&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID101" SEQ="00000026">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000026&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID102" SEQ="00000027">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000027&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID103" SEQ="00000028">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000028&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID104" SEQ="00000029">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000029&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID105" SEQ="00000030">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000030&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID106" SEQ="00000031">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000031&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID107" SEQ="00000032">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000032&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID108" SEQ="00000033">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000033&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID109" SEQ="00000034">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000034&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID110" SEQ="00000035">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000035&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID111" SEQ="00000036">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000036&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID112" SEQ="00000037">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000037&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID113" SEQ="00000038">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000038&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID114" SEQ="00000039">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000039&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID115" SEQ="00000040">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000040&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID116" SEQ="00000041">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000041&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID117" SEQ="00000042">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000042&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID118" SEQ="00000043">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000043&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID119" SEQ="00000044">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000044&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID120" SEQ="00000045">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000045&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID121" SEQ="00000046">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000046&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID122" SEQ="00000047">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000047&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID123" SEQ="00000048">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000048&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID124" SEQ="00000049">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000049&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID125" SEQ="00000050">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000050&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID126" SEQ="00000051">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000051&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID127" SEQ="00000052">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000052&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID128" SEQ="00000053">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000053&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID129" SEQ="00000054">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000054&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID130" SEQ="00000055">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000055&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID131" SEQ="00000056">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000056&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID132" SEQ="00000057">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000057&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID133" SEQ="00000058">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000058&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID134" SEQ="00000059">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000059&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID135" SEQ="00000060">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000060&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID136" SEQ="00000061">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000061&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID137" SEQ="00000062">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000062&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID138" SEQ="00000063">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000063&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID139" SEQ="00000064">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000064&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID140" SEQ="00000065">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000065&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID141" SEQ="00000066">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000066&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID142" SEQ="00000067">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000067&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID143" SEQ="00000068">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000068&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID144" SEQ="00000069">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000069&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID145" SEQ="00000070">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000070&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID146" SEQ="00000071">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000071&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID147" SEQ="00000072">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000072&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID148" SEQ="00000073">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000073&quot;]][1])"/>
+        </METS:file>
+        <METS:file ID="FID149" SEQ="00000074">
+          <METS:FLocat LOCTYPE="URL" xlink:href="#xpointer(/DLPSTEXTCLASS/TEXT/BODY/DIV//P[PB[@SEQ=&quot;00000074&quot;]][1])"/>
+        </METS:file>
+      </METS:file>
+    </METS:fileGrp>
+    <METS:fileGrp ID="FG003" USE="contone">
+      <METS:file ID="FID150" SEQ="00000006" CHECKSUM="fab7a305637576ae63360e2c916a76d6" CHECKSUMTYPE="MD5" SIZE="665112" CREATED="2007-08-10T15:40:46Z" MIMETYPE="image/jp2">
+        <METS:FLocat LOCTYPE="URL" xlink:href="files/p0000006.jp2"/>
+      </METS:file>
+    </METS:fileGrp>
+  </METS:fileSec>
+  <METS:structMap TYPE="physical">
+    <METS:div LABEL="Abraham Lincoln quarterly.  [Vol. 1, no. 1]">
+      <METS:div ORDER="00000001" TYPE="page">
+        <METS:fptr FILEID="FID001"/>
+        <METS:fptr FILEID="FID076"/>
+      </METS:div>
+      <METS:div ORDER="00000002" TYPE="page">
+        <METS:fptr FILEID="FID002"/>
+        <METS:fptr FILEID="FID077"/>
+      </METS:div>
+      <METS:div ORDER="00000003" LABEL="TPG" TYPE="page">
+        <METS:fptr FILEID="FID003"/>
+        <METS:fptr FILEID="FID078"/>
+      </METS:div>
+      <METS:div ORDER="00000004" TYPE="page">
+        <METS:fptr FILEID="FID004"/>
+        <METS:fptr FILEID="FID079"/>
+      </METS:div>
+      <METS:div ORDER="00000005" ORDERLABEL="1" TYPE="page">
+        <METS:fptr FILEID="FID005"/>
+        <METS:fptr FILEID="FID080"/>
+      </METS:div>
+      <METS:div ORDER="00000006" ORDERLABEL="2" TYPE="page">
+        <METS:fptr FILEID="FID006"/>
+        <METS:fptr FILEID="FID150"/>
+        <METS:fptr FILEID="FID081"/>
+      </METS:div>
+      <METS:div ORDER="00000007" ORDERLABEL="3" TYPE="page">
+        <METS:fptr FILEID="FID007"/>
+        <METS:fptr FILEID="FID082"/>
+      </METS:div>
+      <METS:div ORDER="00000008" ORDERLABEL="4" TYPE="page">
+        <METS:fptr FILEID="FID008"/>
+        <METS:fptr FILEID="FID083"/>
+      </METS:div>
+      <METS:div ORDER="00000009" ORDERLABEL="5" TYPE="page">
+        <METS:fptr FILEID="FID009"/>
+        <METS:fptr FILEID="FID084"/>
+      </METS:div>
+      <METS:div ORDER="00000010" ORDERLABEL="6" TYPE="page">
+        <METS:fptr FILEID="FID010"/>
+        <METS:fptr FILEID="FID085"/>
+      </METS:div>
+      <METS:div ORDER="00000011" ORDERLABEL="7" TYPE="page">
+        <METS:fptr FILEID="FID011"/>
+        <METS:fptr FILEID="FID086"/>
+      </METS:div>
+      <METS:div ORDER="00000012" ORDERLABEL="8" TYPE="page">
+        <METS:fptr FILEID="FID012"/>
+        <METS:fptr FILEID="FID087"/>
+      </METS:div>
+      <METS:div ORDER="00000013" ORDERLABEL="9" TYPE="page">
+        <METS:fptr FILEID="FID013"/>
+        <METS:fptr FILEID="FID088"/>
+      </METS:div>
+      <METS:div ORDER="00000014" ORDERLABEL="10" TYPE="page">
+        <METS:fptr FILEID="FID014"/>
+        <METS:fptr FILEID="FID089"/>
+      </METS:div>
+      <METS:div ORDER="00000015" ORDERLABEL="11" TYPE="page">
+        <METS:fptr FILEID="FID015"/>
+        <METS:fptr FILEID="FID090"/>
+      </METS:div>
+      <METS:div ORDER="00000016" ORDERLABEL="12" TYPE="page">
+        <METS:fptr FILEID="FID016"/>
+        <METS:fptr FILEID="FID091"/>
+      </METS:div>
+      <METS:div ORDER="00000017" ORDERLABEL="13" TYPE="page">
+        <METS:fptr FILEID="FID017"/>
+        <METS:fptr FILEID="FID092"/>
+      </METS:div>
+      <METS:div ORDER="00000018" ORDERLABEL="14" TYPE="page">
+        <METS:fptr FILEID="FID018"/>
+        <METS:fptr FILEID="FID093"/>
+      </METS:div>
+      <METS:div ORDER="00000019" ORDERLABEL="15" TYPE="page">
+        <METS:fptr FILEID="FID019"/>
+        <METS:fptr FILEID="FID094"/>
+      </METS:div>
+      <METS:div ORDER="00000020" ORDERLABEL="16" TYPE="page">
+        <METS:fptr FILEID="FID020"/>
+        <METS:fptr FILEID="FID095"/>
+      </METS:div>
+      <METS:div ORDER="00000021" ORDERLABEL="17" TYPE="page">
+        <METS:fptr FILEID="FID021"/>
+        <METS:fptr FILEID="FID096"/>
+      </METS:div>
+      <METS:div ORDER="00000022" ORDERLABEL="18" TYPE="page">
+        <METS:fptr FILEID="FID022"/>
+        <METS:fptr FILEID="FID097"/>
+      </METS:div>
+      <METS:div ORDER="00000023" ORDERLABEL="19" TYPE="page">
+        <METS:fptr FILEID="FID023"/>
+        <METS:fptr FILEID="FID098"/>
+      </METS:div>
+      <METS:div ORDER="00000024" ORDERLABEL="20" TYPE="page">
+        <METS:fptr FILEID="FID024"/>
+        <METS:fptr FILEID="FID099"/>
+      </METS:div>
+      <METS:div ORDER="00000025" ORDERLABEL="21" TYPE="page">
+        <METS:fptr FILEID="FID025"/>
+        <METS:fptr FILEID="FID100"/>
+      </METS:div>
+      <METS:div ORDER="00000026" ORDERLABEL="22" TYPE="page">
+        <METS:fptr FILEID="FID026"/>
+        <METS:fptr FILEID="FID101"/>
+      </METS:div>
+      <METS:div ORDER="00000027" ORDERLABEL="23" TYPE="page">
+        <METS:fptr FILEID="FID027"/>
+        <METS:fptr FILEID="FID102"/>
+      </METS:div>
+      <METS:div ORDER="00000028" ORDERLABEL="24" TYPE="page">
+        <METS:fptr FILEID="FID028"/>
+        <METS:fptr FILEID="FID103"/>
+      </METS:div>
+      <METS:div ORDER="00000029" ORDERLABEL="25" TYPE="page">
+        <METS:fptr FILEID="FID029"/>
+        <METS:fptr FILEID="FID104"/>
+      </METS:div>
+      <METS:div ORDER="00000030" ORDERLABEL="26" TYPE="page">
+        <METS:fptr FILEID="FID030"/>
+        <METS:fptr FILEID="FID105"/>
+      </METS:div>
+      <METS:div ORDER="00000031" ORDERLABEL="27" TYPE="page">
+        <METS:fptr FILEID="FID031"/>
+        <METS:fptr FILEID="FID106"/>
+      </METS:div>
+      <METS:div ORDER="00000032" ORDERLABEL="28" TYPE="page">
+        <METS:fptr FILEID="FID032"/>
+        <METS:fptr FILEID="FID107"/>
+      </METS:div>
+      <METS:div ORDER="00000033" ORDERLABEL="29" TYPE="page">
+        <METS:fptr FILEID="FID033"/>
+        <METS:fptr FILEID="FID108"/>
+      </METS:div>
+      <METS:div ORDER="00000034" ORDERLABEL="30" TYPE="page">
+        <METS:fptr FILEID="FID034"/>
+        <METS:fptr FILEID="FID109"/>
+      </METS:div>
+      <METS:div ORDER="00000035" ORDERLABEL="31" TYPE="page">
+        <METS:fptr FILEID="FID035"/>
+        <METS:fptr FILEID="FID110"/>
+      </METS:div>
+      <METS:div ORDER="00000036" ORDERLABEL="32" TYPE="page">
+        <METS:fptr FILEID="FID036"/>
+        <METS:fptr FILEID="FID111"/>
+      </METS:div>
+      <METS:div ORDER="00000037" ORDERLABEL="33" TYPE="page">
+        <METS:fptr FILEID="FID037"/>
+        <METS:fptr FILEID="FID112"/>
+      </METS:div>
+      <METS:div ORDER="00000038" ORDERLABEL="34" TYPE="page">
+        <METS:fptr FILEID="FID038"/>
+        <METS:fptr FILEID="FID113"/>
+      </METS:div>
+      <METS:div ORDER="00000039" ORDERLABEL="35" TYPE="page">
+        <METS:fptr FILEID="FID039"/>
+        <METS:fptr FILEID="FID114"/>
+      </METS:div>
+      <METS:div ORDER="00000040" ORDERLABEL="36" TYPE="page">
+        <METS:fptr FILEID="FID040"/>
+        <METS:fptr FILEID="FID115"/>
+      </METS:div>
+      <METS:div ORDER="00000041" ORDERLABEL="37" TYPE="page">
+        <METS:fptr FILEID="FID041"/>
+        <METS:fptr FILEID="FID116"/>
+      </METS:div>
+      <METS:div ORDER="00000042" ORDERLABEL="38" TYPE="page">
+        <METS:fptr FILEID="FID042"/>
+        <METS:fptr FILEID="FID117"/>
+      </METS:div>
+      <METS:div ORDER="00000043" ORDERLABEL="39" TYPE="page">
+        <METS:fptr FILEID="FID043"/>
+        <METS:fptr FILEID="FID118"/>
+      </METS:div>
+      <METS:div ORDER="00000044" ORDERLABEL="40" TYPE="page">
+        <METS:fptr FILEID="FID044"/>
+        <METS:fptr FILEID="FID119"/>
+      </METS:div>
+      <METS:div ORDER="00000045" ORDERLABEL="41" TYPE="page">
+        <METS:fptr FILEID="FID045"/>
+        <METS:fptr FILEID="FID120"/>
+      </METS:div>
+      <METS:div ORDER="00000046" ORDERLABEL="42" TYPE="page">
+        <METS:fptr FILEID="FID046"/>
+        <METS:fptr FILEID="FID121"/>
+      </METS:div>
+      <METS:div ORDER="00000047" ORDERLABEL="43" TYPE="page">
+        <METS:fptr FILEID="FID047"/>
+        <METS:fptr FILEID="FID122"/>
+      </METS:div>
+      <METS:div ORDER="00000048" ORDERLABEL="44" TYPE="page">
+        <METS:fptr FILEID="FID048"/>
+        <METS:fptr FILEID="FID123"/>
+      </METS:div>
+      <METS:div ORDER="00000049" ORDERLABEL="45" TYPE="page">
+        <METS:fptr FILEID="FID049"/>
+        <METS:fptr FILEID="FID124"/>
+      </METS:div>
+      <METS:div ORDER="00000050" ORDERLABEL="46" TYPE="page">
+        <METS:fptr FILEID="FID050"/>
+        <METS:fptr FILEID="FID125"/>
+      </METS:div>
+      <METS:div ORDER="00000051" ORDERLABEL="47" TYPE="page">
+        <METS:fptr FILEID="FID051"/>
+        <METS:fptr FILEID="FID126"/>
+      </METS:div>
+      <METS:div ORDER="00000052" ORDERLABEL="48" TYPE="page">
+        <METS:fptr FILEID="FID052"/>
+        <METS:fptr FILEID="FID127"/>
+      </METS:div>
+      <METS:div ORDER="00000053" ORDERLABEL="49" TYPE="page">
+        <METS:fptr FILEID="FID053"/>
+        <METS:fptr FILEID="FID128"/>
+      </METS:div>
+      <METS:div ORDER="00000054" ORDERLABEL="50" TYPE="page">
+        <METS:fptr FILEID="FID054"/>
+        <METS:fptr FILEID="FID129"/>
+      </METS:div>
+      <METS:div ORDER="00000055" ORDERLABEL="51" TYPE="page">
+        <METS:fptr FILEID="FID055"/>
+        <METS:fptr FILEID="FID130"/>
+      </METS:div>
+      <METS:div ORDER="00000056" ORDERLABEL="52" TYPE="page">
+        <METS:fptr FILEID="FID056"/>
+        <METS:fptr FILEID="FID131"/>
+      </METS:div>
+      <METS:div ORDER="00000057" ORDERLABEL="53" TYPE="page">
+        <METS:fptr FILEID="FID057"/>
+        <METS:fptr FILEID="FID132"/>
+      </METS:div>
+      <METS:div ORDER="00000058" ORDERLABEL="54" TYPE="page">
+        <METS:fptr FILEID="FID058"/>
+        <METS:fptr FILEID="FID133"/>
+      </METS:div>
+      <METS:div ORDER="00000059" ORDERLABEL="55" TYPE="page">
+        <METS:fptr FILEID="FID059"/>
+        <METS:fptr FILEID="FID134"/>
+      </METS:div>
+      <METS:div ORDER="00000060" ORDERLABEL="56" TYPE="page">
+        <METS:fptr FILEID="FID060"/>
+        <METS:fptr FILEID="FID135"/>
+      </METS:div>
+      <METS:div ORDER="00000061" ORDERLABEL="57" TYPE="page">
+        <METS:fptr FILEID="FID061"/>
+        <METS:fptr FILEID="FID136"/>
+      </METS:div>
+      <METS:div ORDER="00000062" ORDERLABEL="58" TYPE="page">
+        <METS:fptr FILEID="FID062"/>
+        <METS:fptr FILEID="FID137"/>
+      </METS:div>
+      <METS:div ORDER="00000063" ORDERLABEL="59" TYPE="page">
+        <METS:fptr FILEID="FID063"/>
+        <METS:fptr FILEID="FID138"/>
+      </METS:div>
+      <METS:div ORDER="00000064" ORDERLABEL="60" TYPE="page">
+        <METS:fptr FILEID="FID064"/>
+        <METS:fptr FILEID="FID139"/>
+      </METS:div>
+      <METS:div ORDER="00000065" ORDERLABEL="61" TYPE="page">
+        <METS:fptr FILEID="FID065"/>
+        <METS:fptr FILEID="FID140"/>
+      </METS:div>
+      <METS:div ORDER="00000066" ORDERLABEL="62" TYPE="page">
+        <METS:fptr FILEID="FID066"/>
+        <METS:fptr FILEID="FID141"/>
+      </METS:div>
+      <METS:div ORDER="00000067" ORDERLABEL="63" TYPE="page">
+        <METS:fptr FILEID="FID067"/>
+        <METS:fptr FILEID="FID142"/>
+      </METS:div>
+      <METS:div ORDER="00000068" ORDERLABEL="64" TYPE="page">
+        <METS:fptr FILEID="FID068"/>
+        <METS:fptr FILEID="FID143"/>
+      </METS:div>
+      <METS:div ORDER="00000069" ORDERLABEL="65" TYPE="page">
+        <METS:fptr FILEID="FID069"/>
+        <METS:fptr FILEID="FID144"/>
+      </METS:div>
+      <METS:div ORDER="00000070" ORDERLABEL="66" TYPE="page">
+        <METS:fptr FILEID="FID070"/>
+        <METS:fptr FILEID="FID145"/>
+      </METS:div>
+      <METS:div ORDER="00000071" ORDERLABEL="67" TYPE="page">
+        <METS:fptr FILEID="FID071"/>
+        <METS:fptr FILEID="FID146"/>
+      </METS:div>
+      <METS:div ORDER="00000072" ORDERLABEL="68" TYPE="page">
+        <METS:fptr FILEID="FID072"/>
+        <METS:fptr FILEID="FID147"/>
+      </METS:div>
+      <METS:div ORDER="00000073" ORDERLABEL="69" TYPE="page">
+        <METS:fptr FILEID="FID073"/>
+        <METS:fptr FILEID="FID148"/>
+      </METS:div>
+      <METS:div ORDER="00000074" ORDERLABEL="70" TYPE="page">
+        <METS:fptr FILEID="FID074"/>
+        <METS:fptr FILEID="FID149"/>
+      </METS:div>
+    </METS:div>
+  </METS:structMap>
+</METS:mets>
