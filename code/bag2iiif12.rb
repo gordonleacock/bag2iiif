@@ -377,7 +377,7 @@ end # Metsie
 
 
 opts = Optimist::options do
-  opt :bag, "File name of bag to process", :type => :string, :deafult => "taj1895.0001.001"
+  opt :bag, "File name of bag to process", :type => :string, :default => "taj1895.0001.001"
   opt :bags_dir, "Bag directory", :type => :string,  :default =>  "../bags/"
   opt :manifest_dir, "Manifests output directory", :type => :string,  :default =>  "../manifests/"
 end
